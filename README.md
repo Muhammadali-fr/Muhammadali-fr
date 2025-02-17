@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammadali Jamolov</h1>
 <h3 align="center">A passionate software engineer developer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadali-fr" alt="muhammadali-fr" /></a> </p>
-
 - 🔭 I’m currently working on [Jin-Store](https://github.com/Muhammadali-fr/Jin-store)
 
 - 🌱 I’m currently learning **Node js, React**
