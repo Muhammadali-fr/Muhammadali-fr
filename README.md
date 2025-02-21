@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammadali Jamolov</h1>
 <h3 align="center">A passionate software engineer developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Jin-Store](https://github.com/Muhammadali-fr/Jin-store)
+- 🔭 I’m currently working on [Instagram clone only backend](https://github.com/Alisher009Nabijonov/Instagram)
 
 - 🌱 I’m currently learning **Node js, React**
 
