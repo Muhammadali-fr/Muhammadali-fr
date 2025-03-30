@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js, React**
 
-- 👨‍💻 All of my projects are available at [https://muhammadali-portfolio-fr.netlify.app/](https://muhammadali-portfolio-fr.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhammadali-portfolio-fr.netlify.app/](https://muhammdal1-fr-portfolio.netlify.app/)
 
 - 💬 Ask me about **react**
 
