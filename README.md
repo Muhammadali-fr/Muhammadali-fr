@@ -14,6 +14,6 @@ My focus is clean architecture, developer experience, and shipping things fast.
 
 ## Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,pug,redux,js,ts,react,nodejs,nextjs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,pug,js,ts,nodejs,react,redux,nextjs,nestjs" />
 </div>
 
