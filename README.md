@@ -1,15 +1,8 @@
 <!-- Muhammadali Jamolov GitHub Profile README -->
 
-<div align="center">
-
+<div>
 # Muhammadali Jamolov  
-**Full-Stack Developer** · Next.js · NestJS · React · Node.js  
-
-[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/your-handle) · [Telegram](https://t.me/yourhandle) · [Email](mailto:your@email.com)  
-
 </div>
-
----
 
 ## About Me
 I’m a full-stack developer from Uzbekistan who loves building scalable, modern applications.  
